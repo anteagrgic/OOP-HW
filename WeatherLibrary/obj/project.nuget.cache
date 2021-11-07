@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tv+EB8BrzL/oxeOr/xhDPsLmSenztuOae7R8u8D2C0lBs5bcdYfZW3W+tbtHVz+tKDqq1SwUB91CBgxAfpQ11Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agrgi\\source\\repos\\WeatherApp\\WeatherLibrary\\WeatherLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agrgi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\agrgi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

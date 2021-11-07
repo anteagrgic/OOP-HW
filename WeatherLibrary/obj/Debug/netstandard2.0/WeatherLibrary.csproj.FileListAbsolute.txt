@@ -1,0 +1,9 @@
+C:\Users\agrgi\source\repos\WeatherApp\WeatherLibrary\obj\Debug\netstandard2.0\WeatherLibrary.csprojAssemblyReference.cache
+C:\Users\agrgi\source\repos\WeatherApp\WeatherLibrary\obj\Debug\netstandard2.0\WeatherLibrary.AssemblyInfoInputs.cache
+C:\Users\agrgi\source\repos\WeatherApp\WeatherLibrary\obj\Debug\netstandard2.0\WeatherLibrary.AssemblyInfo.cs
+C:\Users\agrgi\source\repos\WeatherApp\WeatherLibrary\obj\Debug\netstandard2.0\WeatherLibrary.csproj.CoreCompileInputs.cache
+C:\Users\agrgi\source\repos\WeatherApp\WeatherLibrary\bin\Debug\netstandard2.0\WeatherLibrary.deps.json
+C:\Users\agrgi\source\repos\WeatherApp\WeatherLibrary\bin\Debug\netstandard2.0\WeatherLibrary.dll
+C:\Users\agrgi\source\repos\WeatherApp\WeatherLibrary\bin\Debug\netstandard2.0\WeatherLibrary.pdb
+C:\Users\agrgi\source\repos\WeatherApp\WeatherLibrary\obj\Debug\netstandard2.0\WeatherLibrary.dll
+C:\Users\agrgi\source\repos\WeatherApp\WeatherLibrary\obj\Debug\netstandard2.0\WeatherLibrary.pdb

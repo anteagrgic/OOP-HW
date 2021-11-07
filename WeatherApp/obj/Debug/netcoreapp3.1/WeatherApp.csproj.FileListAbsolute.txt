@@ -1,0 +1,16 @@
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.exe
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.deps.json
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.runtimeconfig.json
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.runtimeconfig.dev.json
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.dll
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.pdb
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherLibrary.dll
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherLibrary.pdb
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csprojAssemblyReference.cache
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.AssemblyInfo.cs
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.CopyComplete
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.dll
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.pdb
+C:\Users\agrgi\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.genruntimeconfig.cache
